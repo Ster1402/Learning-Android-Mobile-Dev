@@ -1,0 +1,6 @@
+[submodule "DiceRoller"]
+	path = DiceRoller
+	url = https://github.com/Ster1402/DiceRoller
+[submodule "HappyBirthday"]
+	path = HappyBirthday
+	url = https://github.com/Ster1402/HappyBirthday-Android
